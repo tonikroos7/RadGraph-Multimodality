@@ -1,4 +1,6 @@
-# RadGraph-Multimodality
+# Enhancing Radiology Report Interpretation through Modality-Specific RadGraph Fine-Tuning
+
+<img src="radgraph_inference/pipeline.png" align="middle" width="75%">
 
 ## RadGraph
 
