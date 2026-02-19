@@ -1,6 +1,6 @@
 # RadGraph-Multimodality
 
-## Quickshear
+## RadGraph
 
 **Version:** `v1.0.0` (June 3, 2021)  
 **Repository:** [RadGraph: Extracting Clinical Entities and Relations from Radiology Reports](https://physionet.org/content/radgraph/1.0.0/)
