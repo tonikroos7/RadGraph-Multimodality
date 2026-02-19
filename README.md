@@ -10,7 +10,7 @@ The annotations of chest X-ray radiology reports from MIMIC-CXR is accessible af
 
 ## RadGraph-XL
 
-**Version:** `v1.0.0` (June 3, 2021)  
+**Version:** `v0.1.18` (June 18, 2025)  
 **Repository:** [RadGraph-XL: A Large-Scale Expert-Annotated Dataset for Entity and Relation Extraction from Radiology Reports](https://github.com/Stanford-AIMI/radgraph)
 
 #### Installation
